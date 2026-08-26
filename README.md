@@ -246,7 +246,7 @@ A full-stack blogging platform where users can create, edit and publish blog pos
   </a>
 </p>
 
-📧 **Email:** [your-email@gmail.com](mailto:your-email@gmail.com)
+📧 **Email:** [your-email@gmail.com](mailto:negipankaj289email@gmail.com)
 
 ---
 
