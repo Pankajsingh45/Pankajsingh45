@@ -216,23 +216,11 @@ A full-stack blogging platform where users can create, edit and publish blog pos
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pankajsingh45&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pankajsingh45&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankajsingh45&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
+- ⭐ Repositories: 9
+- 🌟 Stars: 4
+- 📌 Active GitHub Projects
+- 💻 Full Stack Development Projects
+- 🚀 Open to building and collaborating on new projects
 
 # 🌐 Connect With Me
 
